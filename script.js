@@ -11,3 +11,9 @@ function newFunctionAdd2(){
     console.log("New function added");
     console.log("New function added B");
 }
+
+
+function newFunctionAdd3(){
+    console.log("New function added");
+    console.log("New function added C");
+}
