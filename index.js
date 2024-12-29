@@ -1,5 +1,5 @@
 const age = 24;
-const name1 = 'Piyush Garg';
+const name1 = 'Piyush Garg New';
 const dob = '01/01/2000';
 
 function sayName() {
