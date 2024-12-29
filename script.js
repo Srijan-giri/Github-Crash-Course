@@ -24,6 +24,17 @@ function newFunctionAdd3(){
     console.log("New function added C");
 }
 
+function newFunctionAdd4() {
+    console.log("New function added");
+    console.log("New function added C");
+    console.log("New function added C");
+    console.log("New function added C");
+    console.log("New function added C");
+    console.log("New function added C");
+    console.log("New function added C");
+    console.log("New function added C");
+}
+
 function subFunction() {
     console.log("Sub Fun")
 }
